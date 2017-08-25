@@ -1,4 +1,4 @@
-# Titanic Data Visualization
+# Titanic Data Visualization Using D3Js
 
 
 ## Summary
